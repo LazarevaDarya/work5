@@ -5,8 +5,8 @@ from math import fabs
 
 EPS = 1e-10
 
-x = float(input("x = "))
-n = int(input("n = "))
+x = float(input("Value of x? "))
+n = int(input("Value of n? "))
 k = 0
 var = (x / 2) ** n
 summa = float(0)
